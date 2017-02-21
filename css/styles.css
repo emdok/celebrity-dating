@@ -1,0 +1,15 @@
+img {
+  width: 50%;
+}
+h1, p {
+  text-align: center;
+}
+#leo, #alex {
+  display: none;
+}
+.user-form {
+  padding-top: 10px;
+}
+.btn {
+  padding-top: 10px;
+}
